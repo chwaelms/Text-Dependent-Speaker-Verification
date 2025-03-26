@@ -12,4 +12,4 @@ TI-SV는 발화 내용에 제약이 없다는 장점이 있으나, 다양한 음
 본 연구에서는 이러한 환경적 불일치에 강건하면서도 짧은 발화 기반으로 고신뢰 음성 인증이 가능한 TD-SV 시스템을 설계하고, 이를 위해 Conformer 기반 딥러닝 모델 및 다양한 최적화 기법을 통합하여 제안한다.
 
 ### keyword
-Speaker verification, text-dependent speaker verification, end-to-end architecture, conformer, domain mismatch, noise robustness, transfer learning
+Speaker verification, text-dependent speaker verification, end-to-end architecture, conformer, domain mismatch, far-field, noise robustness, transfer learning
