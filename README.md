@@ -1,4 +1,4 @@
-# Design and Implementation of a Text Dependent Speaker Verification for
+# Design and Implementation of a Ligthweight Deep Learning Model for Text-Dependent Speaker Verification
 
 ## Abstract
 
