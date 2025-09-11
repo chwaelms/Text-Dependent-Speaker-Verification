@@ -13,3 +13,6 @@ TI-SV는 발화 내용에 제약이 없다는 장점이 있으나, 다양한 음
 
 ### keyword
 Speaker verification, text-dependent speaker verification, end-to-end architecture, conformer, domain mismatch, far-field, noise robustness, transfer learning
+
+### Code Availability
+The source code for the proposed CTA-Conformer model and experimental setup is publicly available at [[GitHub URL]](https://github.com/zyzisyz/mfa_conformer/tree/master).
