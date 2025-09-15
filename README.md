@@ -15,7 +15,7 @@ TI-SV는 발화 내용에 제약이 없다는 장점이 있으나, 다양한 음
 Speaker verification, text-dependent speaker verification, end-to-end architecture, conformer, domain mismatch, far-field, noise robustness, transfer learning
 
 ### Code Availability
-This implementation is largely based on the following repositories [[GitHub URL]](https://github.com/zyzisyz/mfa_conformer/tree/master).
+This implementation is largely based on the following repositories [[MFA-Conformer]](https://github.com/zyzisyz/mfa_conformer/tree/master).
 We thank the authors for making their code publicly available. 
 Major modifications include the addition of Channel-Temporal Attention (CTA) module and TD-SV specific optimizations.
 
